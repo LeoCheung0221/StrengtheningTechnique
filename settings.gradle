@@ -1,0 +1,3 @@
+include ':stlib'
+include ':app'
+rootProject.name = "StrengtheningTechnique"
